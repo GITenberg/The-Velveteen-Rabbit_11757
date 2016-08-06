@@ -1,0 +1,43 @@
+_repo: The-Velveteen-Rabbit_11757
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bianco, Margery Williams
+    alias: Williams, Margery
+    birthdate: 1880
+    deathdate: 1944
+    gutenberg_agent_id: '4096'
+    url: http://www.gutenberg.org/2009/agents/4096
+    wikipedia: http://en.wikipedia.org/wiki/Margery_Williams
+description: "The Velveteen Rabbit (or How Toys Become Real) is a children's book\
+  \ written by Margery Williams (also known as Margery Williams Bianco) and illustrated\
+  \ by William Nicholson. It chronicles the story of a stuffed rabbit and his desire\
+  \ to become real, through the love of his owner. The book was first published in\
+  \ 1922 and has been republished many times since.\nThe Velveteen Rabbit was Williams'\
+  \ first children's book. It has been awarded the IRA/CBC Children's Choice award.\
+  \ Based on a 2007 online poll, the National Education Association named the book\
+  \ one of its \"Teachers' Top 100 Books for Children.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11757'
+  wikidata: Q168351
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Toys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Rabbits -- Juvenile fiction'
+- GITenberg
+title: The Velveteen Rabbit
+url: http://www.gutenberg.org/ebooks/11757
+wikipedia:
+- https://es.wikisource.org/wiki/El_Conejo_de_Peluche
+- https://pl.wikipedia.org/wiki/Aksamitny_Kr%C3%B3lik
+- https://en.wikisource.org/wiki/The_Velveteen_Rabbit
+- https://en.wikipedia.org/wiki/The_Velveteen_Rabbit
+- https://commons.wikimedia.org/wiki/Category:The_Velveteen_Rabbit
+- https://he.wikipedia.org/wiki/%D7%90%D7%A8%D7%A0%D7%91_%D7%94%D7%A7%D7%98%D7%99%D7%A4%D7%94
